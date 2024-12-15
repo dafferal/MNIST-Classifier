@@ -3,6 +3,7 @@ import numpy as np
 
 
 def image_to_reduced_feature(images, split='train'):
+
     return images[:, :49]
 
 
