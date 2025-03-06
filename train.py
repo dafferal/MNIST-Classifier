@@ -1,7 +1,6 @@
 from utils import *
 import system
 
-
 def main():
     # Load training data
     train_images, train_labels = get_dataset('train')
